@@ -21,3 +21,7 @@ public class Controller {
         return logic.getAccounts();
     }
 }
+
+
+
+//https://medium.com/javarevisited/getting-started-with-spring-boot-with-postgres-18f72612108c
